@@ -1,0 +1,1393 @@
+{
+  "pack_id": "base",
+  "pack_name": "Legendary Vibez Base Deck",
+  "version": 1,
+  "placeholders": {
+    "{left}": "player to the left",
+    "{right}": "player to the right",
+    "{random}": "random other player",
+    "{chosen}": "player picked via roster sheet",
+    "{shot}": "resolved by drink mode: shot | drink | sip",
+    "{shots}": "plural of {shot}"
+  },
+  "cards": [
+    {
+      "id": "base_truth_001",
+      "type": "truth",
+      "text": "Have you ever had an orgy?",
+      "heat": 2,
+      "targets": [
+        "none"
+      ],
+      "mechanic": "none",
+      "mechanic_value": null,
+      "drink_alt": 2,
+      "gender_filter": null
+    },
+    {
+      "id": "base_truth_002",
+      "type": "truth",
+      "text": "Would you ever hook up with your ex again?",
+      "heat": 1,
+      "targets": [
+        "none"
+      ],
+      "mechanic": "none",
+      "mechanic_value": null,
+      "drink_alt": 2,
+      "gender_filter": null
+    },
+    {
+      "id": "base_truth_003",
+      "type": "truth",
+      "text": "Have you ever hooked up with someone and then hooked up with their friend later?",
+      "heat": 2,
+      "targets": [
+        "none"
+      ],
+      "mechanic": "none",
+      "mechanic_value": null,
+      "drink_alt": 2,
+      "gender_filter": null
+    },
+    {
+      "id": "base_truth_004",
+      "type": "truth",
+      "text": "Would you ever hook up with one of your friend's parents?",
+      "heat": 2,
+      "targets": [
+        "none"
+      ],
+      "mechanic": "none",
+      "mechanic_value": null,
+      "drink_alt": 2,
+      "gender_filter": null
+    },
+    {
+      "id": "base_truth_005",
+      "type": "truth",
+      "text": "Have you ever faked an orgasm?",
+      "heat": 2,
+      "targets": [
+        "none"
+      ],
+      "mechanic": "none",
+      "mechanic_value": null,
+      "drink_alt": 2,
+      "gender_filter": null
+    },
+    {
+      "id": "base_truth_006",
+      "type": "truth",
+      "text": "Tell us an embarrassing sex story",
+      "heat": 2,
+      "targets": [
+        "none"
+      ],
+      "mechanic": "none",
+      "mechanic_value": null,
+      "drink_alt": 2,
+      "gender_filter": null
+    },
+    {
+      "id": "base_truth_007",
+      "type": "truth",
+      "text": "Tell us your favorite sexual memory",
+      "heat": 2,
+      "targets": [
+        "none"
+      ],
+      "mechanic": "none",
+      "mechanic_value": null,
+      "drink_alt": 2,
+      "gender_filter": null
+    },
+    {
+      "id": "base_truth_008",
+      "type": "truth",
+      "text": "Say the grossest thing that has happened during sex",
+      "heat": 2,
+      "targets": [
+        "none"
+      ],
+      "mechanic": "none",
+      "mechanic_value": null,
+      "drink_alt": 2,
+      "gender_filter": null
+    },
+    {
+      "id": "base_truth_009",
+      "type": "truth",
+      "text": "Name the best sexual partner you've ever had",
+      "heat": 2,
+      "targets": [
+        "none"
+      ],
+      "mechanic": "none",
+      "mechanic_value": null,
+      "drink_alt": 2,
+      "gender_filter": null
+    },
+    {
+      "id": "base_truth_010",
+      "type": "truth",
+      "text": "Name the weirdest thing that turns you on",
+      "heat": 1,
+      "targets": [
+        "none"
+      ],
+      "mechanic": "none",
+      "mechanic_value": null,
+      "drink_alt": 2,
+      "gender_filter": null
+    },
+    {
+      "id": "base_truth_011",
+      "type": "truth",
+      "text": "Tell the group who you think is the biggest freak",
+      "heat": 1,
+      "targets": [
+        "chosen"
+      ],
+      "mechanic": "none",
+      "mechanic_value": null,
+      "drink_alt": 2,
+      "gender_filter": null
+    },
+    {
+      "id": "base_truth_012",
+      "type": "truth",
+      "text": "Name the person you think will be the drunkest tonight",
+      "heat": 1,
+      "targets": [
+        "chosen"
+      ],
+      "mechanic": "none",
+      "mechanic_value": null,
+      "drink_alt": 2,
+      "gender_filter": null
+    },
+    {
+      "id": "base_truth_013",
+      "type": "truth",
+      "text": "Name the last person you hooked up with",
+      "heat": 1,
+      "targets": [
+        "none"
+      ],
+      "mechanic": "none",
+      "mechanic_value": null,
+      "drink_alt": 2,
+      "gender_filter": null
+    },
+    {
+      "id": "base_truth_014",
+      "type": "truth",
+      "text": "Point to the person in the group you would most likely hook up with",
+      "heat": 2,
+      "targets": [
+        "chosen"
+      ],
+      "mechanic": "none",
+      "mechanic_value": null,
+      "drink_alt": 2,
+      "gender_filter": null
+    },
+    {
+      "id": "base_truth_015",
+      "type": "truth",
+      "text": "Rate everyone playing based on their attractiveness",
+      "heat": 2,
+      "targets": [
+        "all"
+      ],
+      "mechanic": "rate_all",
+      "mechanic_value": null,
+      "drink_alt": 2,
+      "gender_filter": null
+    },
+    {
+      "id": "base_truth_016",
+      "type": "truth",
+      "text": "Rate yourself from 1 to 10",
+      "heat": 1,
+      "targets": [
+        "none"
+      ],
+      "mechanic": "none",
+      "mechanic_value": null,
+      "drink_alt": 2,
+      "gender_filter": null
+    },
+    {
+      "id": "base_truth_017",
+      "type": "truth",
+      "text": "Name someone in the group you think has a condom on them right now",
+      "heat": 1,
+      "targets": [
+        "chosen"
+      ],
+      "mechanic": "none",
+      "mechanic_value": null,
+      "drink_alt": 2,
+      "gender_filter": null
+    },
+    {
+      "id": "base_truth_018",
+      "type": "truth",
+      "text": "Do you like head or sex more?",
+      "heat": 2,
+      "targets": [
+        "none"
+      ],
+      "mechanic": "none",
+      "mechanic_value": null,
+      "drink_alt": 2,
+      "gender_filter": null
+    },
+    {
+      "id": "base_truth_019",
+      "type": "truth",
+      "text": "Would you do a 69 with anybody in the game? If so, who?",
+      "heat": 3,
+      "targets": [
+        "chosen"
+      ],
+      "mechanic": "none",
+      "mechanic_value": null,
+      "drink_alt": 2,
+      "gender_filter": null
+    },
+    {
+      "id": "base_truth_020",
+      "type": "truth",
+      "text": "Have you ever hooked up with a celebrity?",
+      "heat": 1,
+      "targets": [
+        "none"
+      ],
+      "mechanic": "none",
+      "mechanic_value": null,
+      "drink_alt": 2,
+      "gender_filter": null
+    },
+    {
+      "id": "base_dare_001",
+      "type": "dare",
+      "text": "Kiss {random} on the neck",
+      "heat": 2,
+      "targets": [
+        "random"
+      ],
+      "mechanic": "none",
+      "mechanic_value": null,
+      "drink_alt": 2,
+      "gender_filter": null
+    },
+    {
+      "id": "base_dare_002",
+      "type": "dare",
+      "text": "Kiss {left} on the lips",
+      "heat": 2,
+      "targets": [
+        "left"
+      ],
+      "mechanic": "none",
+      "mechanic_value": null,
+      "drink_alt": 2,
+      "gender_filter": null
+    },
+    {
+      "id": "base_dare_003",
+      "type": "dare",
+      "text": "Swap an article of clothing with {chosen}",
+      "heat": 1,
+      "targets": [
+        "chosen"
+      ],
+      "mechanic": "none",
+      "mechanic_value": null,
+      "drink_alt": 2,
+      "gender_filter": null
+    },
+    {
+      "id": "base_dare_004",
+      "type": "dare",
+      "text": "Let the group go through your phone for 3 minutes",
+      "heat": 2,
+      "targets": [
+        "all"
+      ],
+      "mechanic": "phone_timer",
+      "mechanic_value": 180,
+      "drink_alt": 2,
+      "gender_filter": null
+    },
+    {
+      "id": "base_dare_005",
+      "type": "dare",
+      "text": "Kiss a player chosen by the group",
+      "heat": 2,
+      "targets": [
+        "chosen"
+      ],
+      "mechanic": "none",
+      "mechanic_value": null,
+      "drink_alt": 2,
+      "gender_filter": null
+    },
+    {
+      "id": "base_dare_006",
+      "type": "dare",
+      "text": "Suck {chosen}'s finger seductively",
+      "heat": 2,
+      "targets": [
+        "chosen"
+      ],
+      "mechanic": "none",
+      "mechanic_value": null,
+      "drink_alt": 2,
+      "gender_filter": null
+    },
+    {
+      "id": "base_dare_007",
+      "type": "dare",
+      "text": "Take a body {shot} off {chosen}",
+      "heat": 3,
+      "targets": [
+        "chosen"
+      ],
+      "mechanic": "none",
+      "mechanic_value": null,
+      "drink_alt": 2,
+      "gender_filter": null
+    },
+    {
+      "id": "base_dare_008",
+      "type": "dare",
+      "text": "Whisper something naughty to {left}",
+      "heat": 1,
+      "targets": [
+        "left"
+      ],
+      "mechanic": "none",
+      "mechanic_value": null,
+      "drink_alt": 2,
+      "gender_filter": null
+    },
+    {
+      "id": "base_dare_009",
+      "type": "dare",
+      "text": "Choose someone to either twerk or take a {shot}",
+      "heat": 1,
+      "targets": [
+        "chosen"
+      ],
+      "mechanic": "none",
+      "mechanic_value": null,
+      "drink_alt": 2,
+      "gender_filter": null
+    },
+    {
+      "id": "base_dare_010",
+      "type": "dare",
+      "text": "Moan the name of {right}",
+      "heat": 2,
+      "targets": [
+        "right"
+      ],
+      "mechanic": "none",
+      "mechanic_value": null,
+      "drink_alt": 2,
+      "gender_filter": null
+    },
+    {
+      "id": "base_dare_011",
+      "type": "dare",
+      "text": "Send a \"you up?\" text to your crush",
+      "heat": 1,
+      "targets": [
+        "none"
+      ],
+      "mechanic": "none",
+      "mechanic_value": null,
+      "drink_alt": 2,
+      "gender_filter": null
+    },
+    {
+      "id": "base_dare_012",
+      "type": "dare",
+      "text": "Send an eggplant emoji to your crush",
+      "heat": 1,
+      "targets": [
+        "none"
+      ],
+      "mechanic": "none",
+      "mechanic_value": null,
+      "drink_alt": 2,
+      "gender_filter": null
+    },
+    {
+      "id": "base_dare_013",
+      "type": "dare",
+      "text": "Demonstrate oral on {random}",
+      "heat": 3,
+      "targets": [
+        "random"
+      ],
+      "mechanic": "none",
+      "mechanic_value": null,
+      "drink_alt": 2,
+      "gender_filter": null
+    },
+    {
+      "id": "base_dare_014",
+      "type": "dare",
+      "text": "Hold an ice cube between your teeth and trace it along {chosen}'s chest",
+      "heat": 3,
+      "targets": [
+        "chosen"
+      ],
+      "mechanic": "none",
+      "mechanic_value": null,
+      "drink_alt": 2,
+      "gender_filter": null
+    },
+    {
+      "id": "base_dare_015",
+      "type": "dare",
+      "text": "Pass {chosen} a {shot} from your mouth",
+      "heat": 3,
+      "targets": [
+        "chosen"
+      ],
+      "mechanic": "none",
+      "mechanic_value": null,
+      "drink_alt": 2,
+      "gender_filter": null
+    },
+    {
+      "id": "base_dare_016",
+      "type": "dare",
+      "text": "Show the group a sexy photo in your phone",
+      "heat": 3,
+      "targets": [
+        "all"
+      ],
+      "mechanic": "none",
+      "mechanic_value": null,
+      "drink_alt": 2,
+      "gender_filter": null
+    },
+    {
+      "id": "base_dare_017",
+      "type": "dare",
+      "text": "Pick someone to give you a lap dance",
+      "heat": 2,
+      "targets": [
+        "chosen"
+      ],
+      "mechanic": "none",
+      "mechanic_value": null,
+      "drink_alt": 2,
+      "gender_filter": null
+    },
+    {
+      "id": "base_dare_018",
+      "type": "dare",
+      "text": "Leave your phone in the middle. If you get a text before your next turn, take two {shots}",
+      "heat": 1,
+      "targets": [
+        "none"
+      ],
+      "mechanic": "none",
+      "mechanic_value": null,
+      "drink_alt": 2,
+      "gender_filter": null
+    },
+    {
+      "id": "base_dare_019",
+      "type": "dare",
+      "text": "Balance a {shot} on your head while {chosen} takes it without using hands",
+      "heat": 2,
+      "targets": [
+        "chosen"
+      ],
+      "mechanic": "none",
+      "mechanic_value": null,
+      "drink_alt": 2,
+      "gender_filter": null
+    },
+    {
+      "id": "base_dare_020",
+      "type": "dare",
+      "text": "Do a naked lap around the house",
+      "heat": 3,
+      "targets": [
+        "none"
+      ],
+      "mechanic": "none",
+      "mechanic_value": null,
+      "drink_alt": 2,
+      "gender_filter": null
+    },
+    {
+      "id": "base_act_001",
+      "type": "act",
+      "text": "Pick four players to act out an orgy scene for 10 seconds",
+      "heat": 3,
+      "targets": [
+        "chosen"
+      ],
+      "mechanic": "timer",
+      "mechanic_value": 10,
+      "drink_alt": 2,
+      "gender_filter": null
+    },
+    {
+      "id": "base_act_002",
+      "type": "act",
+      "text": "Act out your favorite sex position with {chosen}",
+      "heat": 2,
+      "targets": [
+        "chosen"
+      ],
+      "mechanic": "none",
+      "mechanic_value": null,
+      "drink_alt": 2,
+      "gender_filter": null
+    },
+    {
+      "id": "base_act_003",
+      "type": "act",
+      "text": "Give the player across from you a lap dance, or choose a player to give you one",
+      "heat": 2,
+      "targets": [
+        "chosen"
+      ],
+      "mechanic": "none",
+      "mechanic_value": null,
+      "drink_alt": 2,
+      "gender_filter": null
+    },
+    {
+      "id": "base_act_004",
+      "type": "act",
+      "text": "Demonstrate oral technique using an object or food",
+      "heat": 2,
+      "targets": [
+        "none"
+      ],
+      "mechanic": "none",
+      "mechanic_value": null,
+      "drink_alt": 2,
+      "gender_filter": null
+    },
+    {
+      "id": "base_act_005",
+      "type": "act",
+      "text": "Act out how you would approach someone at a club",
+      "heat": 1,
+      "targets": [
+        "none"
+      ],
+      "mechanic": "none",
+      "mechanic_value": null,
+      "drink_alt": 2,
+      "gender_filter": null
+    },
+    {
+      "id": "base_act_006",
+      "type": "act",
+      "text": "Laugh for 30 seconds",
+      "heat": 1,
+      "targets": [
+        "none"
+      ],
+      "mechanic": "timer",
+      "mechanic_value": 30,
+      "drink_alt": 2,
+      "gender_filter": null
+    },
+    {
+      "id": "base_act_007",
+      "type": "act",
+      "text": "Choose two players to act out a breakup scene",
+      "heat": 1,
+      "targets": [
+        "chosen"
+      ],
+      "mechanic": "none",
+      "mechanic_value": null,
+      "drink_alt": 2,
+      "gender_filter": null
+    },
+    {
+      "id": "base_act_008",
+      "type": "act",
+      "text": "Everybody freeze. The first person to move drinks",
+      "heat": 1,
+      "targets": [
+        "all"
+      ],
+      "mechanic": "freeze",
+      "mechanic_value": null,
+      "drink_alt": 2,
+      "gender_filter": null
+    },
+    {
+      "id": "base_drink_001",
+      "type": "drink",
+      "text": "Take a {shot} if you've had a threesome",
+      "heat": 2,
+      "targets": [
+        "all"
+      ],
+      "mechanic": "none",
+      "mechanic_value": null,
+      "drink_alt": 1,
+      "gender_filter": null
+    },
+    {
+      "id": "base_drink_002",
+      "type": "drink",
+      "text": "Take a {shot} if you've hooked up with someone else playing the game",
+      "heat": 2,
+      "targets": [
+        "all"
+      ],
+      "mechanic": "none",
+      "mechanic_value": null,
+      "drink_alt": 1,
+      "gender_filter": null
+    },
+    {
+      "id": "base_drink_003",
+      "type": "drink",
+      "text": "Take a {shot} if there's someone in the room you'd hook up with",
+      "heat": 1,
+      "targets": [
+        "all"
+      ],
+      "mechanic": "none",
+      "mechanic_value": null,
+      "drink_alt": 1,
+      "gender_filter": null
+    },
+    {
+      "id": "base_drink_004",
+      "type": "drink",
+      "text": "Take a {shot} if you've given or received oral in a car",
+      "heat": 2,
+      "targets": [
+        "all"
+      ],
+      "mechanic": "none",
+      "mechanic_value": null,
+      "drink_alt": 1,
+      "gender_filter": null
+    },
+    {
+      "id": "base_drink_005",
+      "type": "drink",
+      "text": "Take a {shot} if you've let someone spit in your mouth",
+      "heat": 3,
+      "targets": [
+        "all"
+      ],
+      "mechanic": "none",
+      "mechanic_value": null,
+      "drink_alt": 1,
+      "gender_filter": null
+    },
+    {
+      "id": "base_drink_006",
+      "type": "drink",
+      "text": "Take a {shot} if you've hooked up with more than one person in a day",
+      "heat": 2,
+      "targets": [
+        "all"
+      ],
+      "mechanic": "none",
+      "mechanic_value": null,
+      "drink_alt": 1,
+      "gender_filter": null
+    },
+    {
+      "id": "base_drink_007",
+      "type": "drink",
+      "text": "Drink anytime you laugh until your next turn",
+      "heat": 1,
+      "targets": [
+        "all"
+      ],
+      "mechanic": "none",
+      "mechanic_value": null,
+      "drink_alt": 1,
+      "gender_filter": null
+    },
+    {
+      "id": "base_drink_008",
+      "type": "drink",
+      "text": "Take a {shot} if you've filmed yourself having sex",
+      "heat": 2,
+      "targets": [
+        "all"
+      ],
+      "mechanic": "none",
+      "mechanic_value": null,
+      "drink_alt": 1,
+      "gender_filter": null
+    },
+    {
+      "id": "base_drink_009",
+      "type": "drink",
+      "text": "Take a {shot} if you've had sex with more than one person in 24 hours",
+      "heat": 2,
+      "targets": [
+        "all"
+      ],
+      "mechanic": "none",
+      "mechanic_value": null,
+      "drink_alt": 1,
+      "gender_filter": null
+    },
+    {
+      "id": "base_drink_010",
+      "type": "drink",
+      "text": "Take a {shot} if you've masturbated more than once in a day",
+      "heat": 2,
+      "targets": [
+        "all"
+      ],
+      "mechanic": "none",
+      "mechanic_value": null,
+      "drink_alt": 1,
+      "gender_filter": null
+    },
+    {
+      "id": "base_drink_011",
+      "type": "drink",
+      "text": "All the guys take a {shot}",
+      "heat": 1,
+      "targets": [
+        "all"
+      ],
+      "mechanic": "none",
+      "mechanic_value": null,
+      "drink_alt": 1,
+      "gender_filter": "guys"
+    },
+    {
+      "id": "base_drink_012",
+      "type": "drink",
+      "text": "All the ladies take a {shot}",
+      "heat": 1,
+      "targets": [
+        "all"
+      ],
+      "mechanic": "none",
+      "mechanic_value": null,
+      "drink_alt": 1,
+      "gender_filter": "ladies"
+    },
+    {
+      "id": "base_drink_013",
+      "type": "drink",
+      "text": "Take a {shot} if you got caught cheating",
+      "heat": 1,
+      "targets": [
+        "all"
+      ],
+      "mechanic": "none",
+      "mechanic_value": null,
+      "drink_alt": 1,
+      "gender_filter": null
+    },
+    {
+      "id": "base_drink_014",
+      "type": "drink",
+      "text": "Take a {shot} if you watched porn in the last 24 hours",
+      "heat": 2,
+      "targets": [
+        "all"
+      ],
+      "mechanic": "none",
+      "mechanic_value": null,
+      "drink_alt": 1,
+      "gender_filter": null
+    },
+    {
+      "id": "base_drink_015",
+      "type": "drink",
+      "text": "Take a {shot} if you've had a one-night stand",
+      "heat": 1,
+      "targets": [
+        "all"
+      ],
+      "mechanic": "none",
+      "mechanic_value": null,
+      "drink_alt": 1,
+      "gender_filter": null
+    },
+    {
+      "id": "base_drink_016",
+      "type": "drink",
+      "text": "Take a {shot} if you had to do the walk of shame",
+      "heat": 1,
+      "targets": [
+        "all"
+      ],
+      "mechanic": "none",
+      "mechanic_value": null,
+      "drink_alt": 1,
+      "gender_filter": null
+    },
+    {
+      "id": "base_drink_017",
+      "type": "drink",
+      "text": "Take a {shot} if you've had shower sex",
+      "heat": 1,
+      "targets": [
+        "all"
+      ],
+      "mechanic": "none",
+      "mechanic_value": null,
+      "drink_alt": 1,
+      "gender_filter": null
+    },
+    {
+      "id": "base_drink_018",
+      "type": "drink",
+      "text": "Take a {shot} if you own a sex toy",
+      "heat": 1,
+      "targets": [
+        "all"
+      ],
+      "mechanic": "none",
+      "mechanic_value": null,
+      "drink_alt": 1,
+      "gender_filter": null
+    },
+    {
+      "id": "base_drink_019",
+      "type": "drink",
+      "text": "Take a {shot} if you've sent a nude before",
+      "heat": 1,
+      "targets": [
+        "all"
+      ],
+      "mechanic": "none",
+      "mechanic_value": null,
+      "drink_alt": 1,
+      "gender_filter": null
+    },
+    {
+      "id": "base_drink_020",
+      "type": "drink",
+      "text": "Take a {shot} if you've been to a sex party",
+      "heat": 2,
+      "targets": [
+        "all"
+      ],
+      "mechanic": "none",
+      "mechanic_value": null,
+      "drink_alt": 1,
+      "gender_filter": null
+    },
+    {
+      "id": "base_drink_021",
+      "type": "drink",
+      "text": "Take a {shot} if you've hooked up with someone 10+ years older",
+      "heat": 1,
+      "targets": [
+        "all"
+      ],
+      "mechanic": "none",
+      "mechanic_value": null,
+      "drink_alt": 1,
+      "gender_filter": null
+    },
+    {
+      "id": "base_drink_022",
+      "type": "drink",
+      "text": "Take a {shot} if you have a sex playlist",
+      "heat": 1,
+      "targets": [
+        "all"
+      ],
+      "mechanic": "none",
+      "mechanic_value": null,
+      "drink_alt": 1,
+      "gender_filter": null
+    },
+    {
+      "id": "base_drink_023",
+      "type": "drink",
+      "text": "Take a {shot} if you've said the wrong name during sex",
+      "heat": 1,
+      "targets": [
+        "all"
+      ],
+      "mechanic": "none",
+      "mechanic_value": null,
+      "drink_alt": 1,
+      "gender_filter": null
+    },
+    {
+      "id": "base_drink_024",
+      "type": "drink",
+      "text": "Take a {shot} if you've used whipped cream during sex",
+      "heat": 2,
+      "targets": [
+        "all"
+      ],
+      "mechanic": "none",
+      "mechanic_value": null,
+      "drink_alt": 1,
+      "gender_filter": null
+    },
+    {
+      "id": "base_drink_025",
+      "type": "drink",
+      "text": "Take a {shot} if you've used ice during sex",
+      "heat": 2,
+      "targets": [
+        "all"
+      ],
+      "mechanic": "none",
+      "mechanic_value": null,
+      "drink_alt": 1,
+      "gender_filter": null
+    },
+    {
+      "id": "base_drink_026",
+      "type": "drink",
+      "text": "Take a {shot} if you're single",
+      "heat": 1,
+      "targets": [
+        "all"
+      ],
+      "mechanic": "none",
+      "mechanic_value": null,
+      "drink_alt": 1,
+      "gender_filter": null
+    },
+    {
+      "id": "base_drink_027",
+      "type": "drink",
+      "text": "Take a {shot} if you've gone skinny dipping",
+      "heat": 1,
+      "targets": [
+        "all"
+      ],
+      "mechanic": "none",
+      "mechanic_value": null,
+      "drink_alt": 1,
+      "gender_filter": null
+    },
+    {
+      "id": "base_drink_028",
+      "type": "drink",
+      "text": "Take a {shot} if you've missed a flight",
+      "heat": 1,
+      "targets": [
+        "all"
+      ],
+      "mechanic": "none",
+      "mechanic_value": null,
+      "drink_alt": 1,
+      "gender_filter": null
+    },
+    {
+      "id": "base_drink_029",
+      "type": "drink",
+      "text": "Take a {shot} if you've had a wet dream",
+      "heat": 1,
+      "targets": [
+        "all"
+      ],
+      "mechanic": "none",
+      "mechanic_value": null,
+      "drink_alt": 1,
+      "gender_filter": null
+    },
+    {
+      "id": "base_drink_030",
+      "type": "drink",
+      "text": "Take a {shot} if you've fallen while drunk",
+      "heat": 1,
+      "targets": [
+        "all"
+      ],
+      "mechanic": "none",
+      "mechanic_value": null,
+      "drink_alt": 1,
+      "gender_filter": null
+    },
+    {
+      "id": "base_drink_031",
+      "type": "drink",
+      "text": "Take a {shot} if you've used a toy during sex",
+      "heat": 2,
+      "targets": [
+        "all"
+      ],
+      "mechanic": "none",
+      "mechanic_value": null,
+      "drink_alt": 1,
+      "gender_filter": null
+    },
+    {
+      "id": "base_drink_032",
+      "type": "drink",
+      "text": "Take a {shot} if you've never left the country",
+      "heat": 1,
+      "targets": [
+        "all"
+      ],
+      "mechanic": "none",
+      "mechanic_value": null,
+      "drink_alt": 1,
+      "gender_filter": null
+    },
+    {
+      "id": "base_drink_033",
+      "type": "drink",
+      "text": "Take a {shot} if you've ever bought Plan B",
+      "heat": 1,
+      "targets": [
+        "all"
+      ],
+      "mechanic": "none",
+      "mechanic_value": null,
+      "drink_alt": 1,
+      "gender_filter": null
+    },
+    {
+      "id": "base_drink_034",
+      "type": "drink",
+      "text": "Take a {shot} if you like to slap or be slapped during sex",
+      "heat": 2,
+      "targets": [
+        "all"
+      ],
+      "mechanic": "none",
+      "mechanic_value": null,
+      "drink_alt": 1,
+      "gender_filter": null
+    },
+    {
+      "id": "base_drink_035",
+      "type": "drink",
+      "text": "Take a {shot} if you've ever been flown out or flown someone out",
+      "heat": 1,
+      "targets": [
+        "all"
+      ],
+      "mechanic": "none",
+      "mechanic_value": null,
+      "drink_alt": 1,
+      "gender_filter": null
+    },
+    {
+      "id": "base_drink_036",
+      "type": "drink",
+      "text": "Take a {shot} if you've gone through a partner's phone",
+      "heat": 1,
+      "targets": [
+        "all"
+      ],
+      "mechanic": "none",
+      "mechanic_value": null,
+      "drink_alt": 1,
+      "gender_filter": null
+    },
+    {
+      "id": "base_drink_037",
+      "type": "drink",
+      "text": "Take a {shot} if you would fuck the person who pulled this card",
+      "heat": 3,
+      "targets": [
+        "all"
+      ],
+      "mechanic": "none",
+      "mechanic_value": null,
+      "drink_alt": 1,
+      "gender_filter": null
+    },
+    {
+      "id": "base_drink_038",
+      "type": "drink",
+      "text": "Take a {shot} if you suck toes during sex",
+      "heat": 2,
+      "targets": [
+        "all"
+      ],
+      "mechanic": "none",
+      "mechanic_value": null,
+      "drink_alt": 1,
+      "gender_filter": null
+    },
+    {
+      "id": "base_drink_039",
+      "type": "drink",
+      "text": "Take a {shot} if you talk during sex",
+      "heat": 1,
+      "targets": [
+        "all"
+      ],
+      "mechanic": "none",
+      "mechanic_value": null,
+      "drink_alt": 1,
+      "gender_filter": null
+    },
+    {
+      "id": "base_power_001",
+      "type": "power",
+      "text": "Choose a player to take a {shot} with you",
+      "heat": 1,
+      "targets": [
+        "chosen"
+      ],
+      "mechanic": "none",
+      "mechanic_value": null,
+      "drink_alt": 0,
+      "gender_filter": null
+    },
+    {
+      "id": "base_power_002",
+      "type": "power",
+      "text": "Pick someone to twerk or drink",
+      "heat": 1,
+      "targets": [
+        "chosen"
+      ],
+      "mechanic": "none",
+      "mechanic_value": null,
+      "drink_alt": 0,
+      "gender_filter": null
+    },
+    {
+      "id": "base_power_003",
+      "type": "power",
+      "text": "Choose someone to take a body {shot} off another player",
+      "heat": 3,
+      "targets": [
+        "chosen"
+      ],
+      "mechanic": "none",
+      "mechanic_value": null,
+      "drink_alt": 0,
+      "gender_filter": null
+    },
+    {
+      "id": "base_power_004",
+      "type": "power",
+      "text": "Spin the bottle",
+      "heat": 1,
+      "targets": [
+        "all"
+      ],
+      "mechanic": "spin",
+      "mechanic_value": null,
+      "drink_alt": 0,
+      "gender_filter": null
+    },
+    {
+      "id": "base_power_005",
+      "type": "power",
+      "text": "Pick someone to give you a lap dance or they drink",
+      "heat": 2,
+      "targets": [
+        "chosen"
+      ],
+      "mechanic": "none",
+      "mechanic_value": null,
+      "drink_alt": 0,
+      "gender_filter": null
+    },
+    {
+      "id": "base_power_006",
+      "type": "power",
+      "text": "Challenge a player to rock-paper-scissors. The loser drinks",
+      "heat": 1,
+      "targets": [
+        "chosen"
+      ],
+      "mechanic": "rps",
+      "mechanic_value": null,
+      "drink_alt": 0,
+      "gender_filter": null
+    },
+    {
+      "id": "base_power_007",
+      "type": "power",
+      "text": "Fuck, Marry, Kill with players in the room. Whoever gets killed drinks",
+      "heat": 2,
+      "targets": [
+        "all"
+      ],
+      "mechanic": "none",
+      "mechanic_value": null,
+      "drink_alt": 0,
+      "gender_filter": null
+    },
+    {
+      "id": "base_power_008",
+      "type": "power",
+      "text": "Pick a player of your choice to show you one of their nudes",
+      "heat": 3,
+      "targets": [
+        "chosen"
+      ],
+      "mechanic": "none",
+      "mechanic_value": null,
+      "drink_alt": 0,
+      "gender_filter": null
+    },
+    {
+      "id": "base_power_009",
+      "type": "power",
+      "text": "Keep this card. Use it to skip any card later",
+      "heat": 1,
+      "targets": [
+        "none"
+      ],
+      "mechanic": "skip",
+      "mechanic_value": null,
+      "drink_alt": 0,
+      "gender_filter": null
+    },
+    {
+      "id": "base_vote_001",
+      "type": "vote",
+      "text": "Who's most likely to hook up tonight? Everybody points on 3. Most votes takes a {shot}.",
+      "heat": 1,
+      "targets": [
+        "all"
+      ],
+      "mechanic": "vote",
+      "mechanic_value": null,
+      "drink_alt": 1,
+      "gender_filter": null
+    },
+    {
+      "id": "base_vote_002",
+      "type": "vote",
+      "text": "Who's the biggest flirt in the room? Everybody points on 3. Most votes takes a {shot}.",
+      "heat": 1,
+      "targets": [
+        "all"
+      ],
+      "mechanic": "vote",
+      "mechanic_value": null,
+      "drink_alt": 1,
+      "gender_filter": null
+    },
+    {
+      "id": "base_vote_003",
+      "type": "vote",
+      "text": "Who has the highest body count? Everybody points on 3. Most votes takes a {shot}.",
+      "heat": 2,
+      "targets": [
+        "all"
+      ],
+      "mechanic": "vote",
+      "mechanic_value": null,
+      "drink_alt": 1,
+      "gender_filter": null
+    },
+    {
+      "id": "base_vote_004",
+      "type": "vote",
+      "text": "Who would survive longest in a threesome negotiation? Everybody points on 3. Most votes takes a {shot}.",
+      "heat": 2,
+      "targets": [
+        "all"
+      ],
+      "mechanic": "vote",
+      "mechanic_value": null,
+      "drink_alt": 1,
+      "gender_filter": null
+    },
+    {
+      "id": "base_vote_005",
+      "type": "vote",
+      "text": "Who's most likely to send a drunk text before midnight? Everybody points on 3. Most votes takes a {shot}.",
+      "heat": 1,
+      "targets": [
+        "all"
+      ],
+      "mechanic": "vote",
+      "mechanic_value": null,
+      "drink_alt": 1,
+      "gender_filter": null
+    },
+    {
+      "id": "base_vote_006",
+      "type": "vote",
+      "text": "Who's the best kisser here? Everybody points on 3. Most votes takes a {shot}.",
+      "heat": 1,
+      "targets": [
+        "all"
+      ],
+      "mechanic": "vote",
+      "mechanic_value": null,
+      "drink_alt": 1,
+      "gender_filter": null
+    },
+    {
+      "id": "base_vote_007",
+      "type": "vote",
+      "text": "Who's most likely to have a secret OnlyFans? Everybody points on 3. Most votes takes a {shot}.",
+      "heat": 2,
+      "targets": [
+        "all"
+      ],
+      "mechanic": "vote",
+      "mechanic_value": null,
+      "drink_alt": 1,
+      "gender_filter": null
+    },
+    {
+      "id": "base_vote_008",
+      "type": "vote",
+      "text": "Who's lying about their number? Everybody points on 3. Most votes takes a {shot}.",
+      "heat": 2,
+      "targets": [
+        "all"
+      ],
+      "mechanic": "vote",
+      "mechanic_value": null,
+      "drink_alt": 1,
+      "gender_filter": null
+    },
+    {
+      "id": "base_vote_009",
+      "type": "vote",
+      "text": "Who's most likely to leave with someone tonight? Everybody points on 3. Most votes takes a {shot}.",
+      "heat": 1,
+      "targets": [
+        "all"
+      ],
+      "mechanic": "vote",
+      "mechanic_value": null,
+      "drink_alt": 1,
+      "gender_filter": null
+    },
+    {
+      "id": "base_vote_010",
+      "type": "vote",
+      "text": "Who has the wildest search history? Everybody points on 3. Most votes takes a {shot}.",
+      "heat": 2,
+      "targets": [
+        "all"
+      ],
+      "mechanic": "vote",
+      "mechanic_value": null,
+      "drink_alt": 1,
+      "gender_filter": null
+    }
+  ]
+}

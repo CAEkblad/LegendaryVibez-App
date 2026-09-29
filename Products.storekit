@@ -1,0 +1,20 @@
+{
+  "identifier" : "LV-Local",
+  "nonRenewingSubscriptions" : [],
+  "products" : [
+    {
+      "displayPrice" : "4.99",
+      "familyShareable" : false,
+      "internalID" : "LV0001",
+      "localizations" : [
+        { "description" : "All 106 cards, every heat level, full-length games.", "displayName" : "Full Deck", "locale" : "en_US" }
+      ],
+      "productID" : "com.legendaryvibez.fulldeck",
+      "referenceName" : "Full Deck",
+      "type" : "NonConsumable"
+    }
+  ],
+  "settings" : { "_applicationInternalID" : "", "_developerTeamID" : "", "_lastSynced" : 0 },
+  "subscriptionGroups" : [],
+  "version" : { "major" : 3, "minor" : 0 }
+}
